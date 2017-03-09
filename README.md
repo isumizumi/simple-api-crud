@@ -48,7 +48,7 @@ Sedangkan collection restaurants memiliki field name, owner,  address, serta ope
 **Route**            |    **HTTP**   | **Description**
 ---------------------|---------------|------------------------
 /seed/foods          | GET           | data food
-/seed/restaurant     | GET           | data restaurant
+/seed/restaurants    | GET           | data restaurant
 
 
 ### **USAGE**
