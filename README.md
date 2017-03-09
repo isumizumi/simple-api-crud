@@ -14,7 +14,7 @@ Sedangkan collection restaurants memiliki field name, owner,  address, serta ope
 1. Readme.md
 2. npm init
 3. npm install (express generator, nodemon, mongodb, mongoose)
-4. setting package.json
+4. setting package.json & app.js
 5. Create schema & models for collection Foods
 6. Create controller for collection Foods
 7. Create seed data for collection Foods
